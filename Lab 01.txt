@@ -1,0 +1,7 @@
+Laboratorio 1 de programación Regresión Lineal
+
+Nombre: Juan Agustin Apaza Guzman
+GitHub: https://github.com/JuanApazaG/Laboratorios-SIS420.git
+
+DataSet"
+https://www.kaggle.com/datasets/yakhyojon/automatidata?select=2017_Yellow_Taxi_Trip_Data.csv
